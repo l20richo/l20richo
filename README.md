@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
-<h3 align="center">OMSc student with a passion in AI/ML and Data Science. <br> Passionate developer and technology enthusiast dedicated to crafting clean, efficient code and building innovative solutions.</h3>
+<h3 align="center">MSc student with a passion in AI/ML and Data Science. <br> Passionate developer and technology enthusiast dedicated to crafting clean, efficient code and building innovative solutions.</h3>
 
 <br>
 
