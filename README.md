@@ -3,7 +3,7 @@
 
 <br>
 
-- 📫 How to reach me: **loic.richonnier@gmail.fr**
+- 📫 How to reach me: **loicrichonnier@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
